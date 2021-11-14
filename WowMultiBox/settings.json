@@ -1,0 +1,24 @@
+﻿{
+  "GamePath": "C:/Program Files (x86)/World of Warcraft/_classic_/",
+  "GameExe": "wowclassic.exe",
+  "GameName": "World of Warcraft",
+  "CharacterNames": [
+    "HearthVâder",
+    "Attrocitas",
+    "GrîmSheepêr",
+    "Glòck",
+    "Akkirâ"
+  ],
+  "SlaveHeight": 298,
+  "SlaveWidth": 529,
+  "Slave1PosX": 2031,
+  "Slave1PosY": 125,
+  "SlaveFocusHeight": 1142,
+  "SlaveFocusWidth": 2031,
+  "SlaveFocusPosX": 0,
+  "SlaveFocusPosY": 0,
+  "MasterPosX": 0,
+  "MasterPosY": 0,
+  "MasterWidth": 2031,
+  "MasterHeight": 1390
+}
