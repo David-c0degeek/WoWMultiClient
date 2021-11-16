@@ -15,6 +15,8 @@ static class Program
         _settings = GetSettings() ?? throw new Exception("Must specify settings");
 
         RunProcesses();
+        
+        Spi.SetActiveWindowTracking(true);
     }
 
     private static void RunProcesses()
