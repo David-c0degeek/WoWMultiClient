@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005Cdotnet_005Cpacks_005CMicrosoft_002EWindowsDesktop_002EApp_002ERef_005C6_002E0_002E0_005Cref_005Cnet6_002E0_005CSystem_002EWindows_002EForms_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005Cdotnet_005Cpacks_005CMicrosoft_002EWindowsDesktop_002EApp_002ERef_005C6_002E0_002E0_005Cref_005Cnet6_002E0_005CSystem_002EWindows_002EForms_002Exml/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CRepos_005CWowMultiBox_005CWowMultiBox_005CSystem_002EWindows_002EForms_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.WindowsDesktop.App.Ref\6.0.0\ref\net6.0\System.Windows.Forms.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

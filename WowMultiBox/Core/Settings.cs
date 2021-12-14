@@ -8,7 +8,7 @@ public class Settings
     public List<string> CharacterNames { get; set; }
 
     public string FullPath => $"{GamePath}{GameExe}";
-    
+
     public int SlaveHeight { get; set; }
     public int SlaveWidth { get; set; }
     public int Slave1PosX { get; set; }
